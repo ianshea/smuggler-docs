@@ -1,0 +1,1 @@
+Works on legal Kingdom contracts but also secretly forges restricted weapons, warded lockpicks, or smuggling tools for criminals.

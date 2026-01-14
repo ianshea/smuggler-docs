@@ -1,0 +1,1 @@
+ell legal potions and remedies while potentially hiding illicit alchemical brews or rare magical ingredients in back rooms.

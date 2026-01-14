@@ -1,0 +1,1 @@
+Provides mundane supplies but acts as a clearinghouse for smugglers, offering hidden compartments in barrels or enchanted lockboxes.

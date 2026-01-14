@@ -1,0 +1,1 @@
+Used to supply Mana for Spells.

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"fb86efd82aedea4a","type":"file","file":"Gameplay/Smuggling/Checkpoints/Checkpoint Fail.md","x":63,"y":1540,"width":375,"height":120,"color":"1"},
+		{"id":"881a94eb5a44cc78","type":"text","text":"Dialogue Options\n- Bribe\n- Enter\n- Retreat","x":-125,"y":180,"width":250,"height":200,"color":"3"},
+		{"id":"ed26563b5082f270","type":"text","text":"Retreat","x":-740,"y":250,"width":250,"height":60},
+		{"id":"31a7da8f95a39385","type":"text","text":"Dialogue Options\n- Bribe\n- Run/Flee\n- Skill\n- Spell","x":-375,"y":1200,"width":250,"height":200,"color":"3"},
+		{"id":"60cb56adb9af744f","type":"text","text":"Checkpoint Consequence","x":-375,"y":880,"width":250,"height":60,"color":"1"},
+		{"id":"f4f52a01daf9acc1","type":"file","file":"Gameplay/Smuggling/Checkpoints/Documents.md","x":-125,"y":520,"width":425,"height":160,"color":"2"},
+		{"id":"d5d8f49d3e9b969b","type":"text","text":"Continue","x":800,"y":570,"width":250,"height":60,"color":"4"},
+		{"id":"5ae4eedabdc97eb4","type":"file","file":"Gameplay/Smuggling/Checkpoints/Inspections.md","x":63,"y":1180,"width":375,"height":100,"color":"2"},
+		{"id":"ad568c81dd5ceac3","type":"text","text":"Docs Ok","x":125,"y":940,"width":250,"height":60,"color":"4"},
+		{"id":"588b3907aee5c61e","type":"text","text":"Player Enters","x":-125,"y":-180,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"dc4ebc1c44fdea8b","fromNode":"f4f52a01daf9acc1","fromSide":"right","toNode":"d5d8f49d3e9b969b","toSide":"left","color":"4","label":"Docs Pass"},
+		{"id":"284972efe892ca95","fromNode":"f4f52a01daf9acc1","fromSide":"bottom","toNode":"60cb56adb9af744f","toSide":"top","color":"1","label":"Docs Fail"},
+		{"id":"5109dfea85f29aea","fromNode":"f4f52a01daf9acc1","fromSide":"bottom","toNode":"ad568c81dd5ceac3","toSide":"top","color":"4","label":"Docs Required"},
+		{"id":"661ab07d92f18603","fromNode":"ad568c81dd5ceac3","fromSide":"bottom","toNode":"5ae4eedabdc97eb4","toSide":"top"},
+		{"id":"9fbe6e4ea57d7b49","fromNode":"5ae4eedabdc97eb4","fromSide":"bottom","toNode":"fb86efd82aedea4a","toSide":"top","label":"Fail"},
+		{"id":"b121c4902ce4c737","fromNode":"881a94eb5a44cc78","fromSide":"left","toNode":"60cb56adb9af744f","toSide":"top"},
+		{"id":"9d10598d3a11e3e2","fromNode":"881a94eb5a44cc78","fromSide":"left","toNode":"ed26563b5082f270","toSide":"right"},
+		{"id":"b153c8484857541a","fromNode":"31a7da8f95a39385","fromSide":"left","toNode":"ed26563b5082f270","toSide":"bottom"},
+		{"id":"3112839e08afb78e","fromNode":"60cb56adb9af744f","fromSide":"bottom","toNode":"31a7da8f95a39385","toSide":"top"},
+		{"id":"188d9e7ff62a8e6a","fromNode":"588b3907aee5c61e","fromSide":"bottom","toNode":"881a94eb5a44cc78","toSide":"top"},
+		{"id":"a7cb9ce42dcde57b","fromNode":"5ae4eedabdc97eb4","fromSide":"right","toNode":"d5d8f49d3e9b969b","toSide":"bottom","label":"Pass"}
+	]
+}

@@ -1,0 +1,1 @@
+Contacts have [[Requests]] that can be fulfilled in return for [[Items]] or [[Wealth]].
