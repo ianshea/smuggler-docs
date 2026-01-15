@@ -1,151 +1,195 @@
 # World Overview
 
-## Magic Prohibition
-
-### Why Magic is Outlawed
-
-Magic, in the right hands and with proper study, could make people's lives easier and give them the power to craft a utopia. Or burn it all to the ground and murder each other in fits of jealous rage. 
-
-The wise powers that be outlawed magic to prevent both extremes.
-
-### How It's Enforced
-
-Magic prohibition is treated like traffic laws:
-- **Minor infractions** (doing a bit of magic, small-scale use) → Warning or fine
-- **Major infractions** (causing magical "accidents", concealed high-grade contraband like "a pouch of South Ankorian Pop Lilly pollen hidden by an invisibility spell") → Prison time
-
-It's a varying scale of enforcement depending on severity and who catches you.
-
-### The Reality
-
-This creates the perfect environment for a smuggling economy - magic is illegal but not evil, enforcement is inconsistent, and demand remains high.
+This is the high-level picture of the world - the essential context that makes everything else make sense.
 
 ---
 
-## The Undead Crusade
+## The Short Version
 
-### The Fabricated Crisis
+Hundreds of years ago, the Kingdom fought a long, pointless war with the Undead. When the Undead got tired of the cycle and withdrew, a clever royal claimed credit for "negotiating peace" and used the fabricated treaty to outlaw magic and consolidate power.
 
-The King and Queen are doing their best in trying times... that they entirely fabricated.
+Now, generations later, the current royals - who believe the fake history completely - have started a new crusade against an enemy that just wanted to be left alone.
 
-**What Actually Happened:**
-- The Undead are usually fine if left alone
-- King & Queen wanted a holy crusade to "purge the lands of the undead"
-- Necromancers pointed out the never-ending cycle: kill the undead → raise the dead → kill them again → repeat forever
-- The King and Queen just didn't really get it
-- Crusade happened anyway
-
-### Current State
-
-The Kingdom is now at war with the Undead - a conflict that:
-- Didn't need to happen
-- Creates a perpetual war economy
-- Generates scavenger markets (battlefield salvage)
-- Justifies increased Kingdom control and Enclave "assistance"
-- Benefits those who profit from war (smugglers, scavengers, arms dealers)
-
-The Undead, for their part, are simply defending themselves from an unprovoked crusade.
+You're a wizard who owes money to the wrong people. You smuggle magical contraband to pay off your debt. Your goal is to escape before the world's dysfunction catches up with you.
 
 ---
 
-## The Enclave
+## The Prohibition
 
-### Official Role
+### The Official Story
 
-The Enclave operates in a very gray area of Kingdom law as the official magical enforcement authority.
+The Great Ancestor ended the Undead Wars through masterful diplomacy. The treaty terms included prohibition of magic, which had "caused and prolonged the conflict." The Enclave was established as the regulated magical authority to manage necessary magical functions within the law.
 
-### Shadow Business
+Magic prohibition is the price of peace. It has kept the Kingdom safe for centuries.
 
-Their true heart of business is **dealing in magic** through a distributed network of fronts that obscure their operations.
+### What Actually Happened
 
-### Why They Exist
+The Undead just left.
 
-Even the crusade and the Kingdom need magical help sometimes. It's better to have experts at hand who know these things rather than have to reinvent the fireball every time.
+War is pointless for them - human kills undead, undead kills human, human becomes undead, repeat forever. After generations of this, their leadership (who don't die) realized the humans were never going to figure it out. So they withdrew into isolation and left a note.
 
-The Kingdom can't admit they rely on the Enclave, but they do. The Enclave exploits this dependence by:
-- Running the black market for magical goods
-- Operating both enforcement AND supply sides
-- Creating artificial scarcity to maintain control
-- Indebting people (like the player) to work for them
+The Great Ancestor saw an opportunity:
 
-### The Arrangement
+1. **Declared victory** - Claimed the withdrawal was negotiated surrender
+2. **Blamed magic** - "Reckless sorcery caused the war"
+3. **Prohibited magic** - Eliminated rival mages and consolidated power
+4. **Created the Enclave** - Established a "regulated" magical authority under royal influence
+5. **Implemented economic controls** - Monopolies and restrictions dressed up as "treaty obligations"
 
-The Enclave is tolerated because they're useful. They enforce magic prohibition publicly while dealing magic privately. Everyone in power knows, but no one talks about it.
+Over generations, the lie became history. The fabricated treaty became the foundation of the Kingdom's legal and economic order.
 
----
+### The Enclave Knows
 
-## The Kingdom
+The Enclave has kept records since the beginning. Somewhere in Thornhaven, there's documentation that could unravel the Kingdom's founding mythology.
 
-### Leadership
-
-The King and Queen rule from the capital plains region. They are:
-- Well-intentioned (genuinely trying to do right)
-- Terrible at it (fabricated a war, don't understand consequences)
-- Bureaucratic (lots of permits, regulations, enforcement)
-- Traditional (UK-inspired governance structure)
-
-### Structure
-
-The Kingdom controls most of the land through:
-- Central government in the capital
-- Regional garrisons and guard posts
-- Checkpoints between territories
-- Official enforcement of magic prohibition
-- Reliance on the Enclave for magical matters (publicly denied)
+They don't use it. The current arrangement makes them rich and powerful. Why expose a lie that benefits you?
 
 ---
 
-## Player's Role in the World
+## The Current War
 
-### Starting Point
+### The Crusade
 
-You're not part of any faction initially - you're an independent operator who:
-- Took a smuggling job for the Enclave for quick money
-- Something went wrong (caught, shipment lost, etc.)
-- Now you owe them a massive debt
-- Must work it off by running their contraband
+The current King and Queen, in their well-intentioned incompetence, decided to launch a holy crusade to "purge the Undead threat."
 
-### The Trap
+They genuinely believe:
+- The Undead are ancient evil (everyone knows that)
+- The Great Ancestor's treaty was real (it's in the history books)
+- A crusade is what heroic rulers do (it'll unite the kingdom)
 
-You're indebted to the Enclave, which means:
-- They supply your ingredients (on credit, adding to debt)
-- They expect you to produce contraband for them
-- They inspect your operations (inverse checkpoints to ensure you're not skimming)
-- They don't care about you - only their investment
+They have no idea they're violating their own ancestor's fiction to attack an enemy that just wants to be left alone.
 
-### The Goal
+### The Undead Response
 
-**Buy your freedom.** 
+The Undead are defending themselves. Again.
 
-Success isn't defeating a final boss or saving the world - it's accumulating enough wealth to:
-- Pay off your debt to the Enclave
-- Disappear or start a legitimate life
-- Escape the smuggling game entirely
+They're not interested in conquest or revenge. They'd stop fighting tomorrow if the Kingdom stopped attacking. But the royals can't admit they made a mistake, so the war continues.
 
-You're playing to **get out**, not to gain power or become important. You're a small cog in a much larger world, trying to survive and escape.
+### Economic Disruption
+
+The crusade has cracked open the old system:
+
+| "Treaty Term" | What It Really Was | War Disruption | Your Opportunity |
+|---------------|-------------------|----------------|------------------|
+| Necromantic material bans | Eliminated competitors | Battlefields flood market with salvage | Ashford is full of illegal materials |
+| Controlled substance monopolies | Crown monopolies on valuable goods | Demand exceeds legal supply | Fuzzy Leaf smuggling, unlicensed production |
+| Mana production licensing | Enclave monopoly | Kingdom needs more mana for war | Enclave has leverage; independents have openings |
+| Border restrictions | Controlled trade routes | War zones = enforcement gaps | Ashford barely controlled; chaos routes available |
+| Knowledge restrictions | Enclave controls formula access | Demand for combat magic | Forbidden scrolls are valuable contraband |
+
+The war is expensive, unpopular, and shows no signs of ending. The Kingdom's dysfunction is your opportunity.
 
 ---
 
-## World Themes
+## The Factions
 
-### Bureaucratic Overreach
-Not grimdark oppression - more **Papers Please** than **1984**. The Kingdom means well but creates problems through incompetence and overregulation.
+### The Kingdom
 
-### Well-Intentioned Incompetence
-The King and Queen aren't evil tyrants - they're bad at governance. The crusade wasn't malicious, it was stupid. This creates a more nuanced world.
+The governing authority - a sprawling bureaucratic monarchy that means well and governs poorly.
+
+- **Central power** in Kingsmoor (the capital)
+- **Checkpoints** controlling movement between territories
+- **Permit system** regulating trade, travel, and magic
+- **Enforcement** that's inconsistent enough to make smuggling viable
+
+The Kingdom isn't evil. They're the kind of rulers who start a war because it seemed heroic and can't understand why everything keeps getting worse.
+
+*See: [[Kingdom]] for full details*
+
+### The Enclave
+
+The official magical authority that publicly enforces prohibition while privately running the black market.
+
+- **Your employer** - You owe them, you work for them
+- **Your supplier** - They provide ingredients (on credit, adding to debt)
+- **Your jailer** - The tower is theirs, the debt is real, the receipts exist
+
+They're organized crime with a government badge. Professional, documented, businesslike. They don't hurt people for fun - they hurt people because it's efficient.
+
+*See: [[Wizards Enclave]] for full details*
+
+### The Undead
+
+A civilization that wants to be left alone, now defending itself against an unprovoked crusade.
+
+They matter to you because their war creates opportunity - battlefield salvage, border chaos, war economy demand. You don't work with them or against them. You profit from the mess.
+
+*See: [[Undead]] for full details*
+
+### Independent Operators
+
+Not monolithic factions, just people with their own interests:
+
+- **Rebels** (Ashford) - Anti-Kingdom, will help you for a price
+- **Independent Smugglers** (Riverton) - Neutral traders, competitors and sometimes allies
+- **Various vendors** - Each with their own agenda and hidden stock
+
+These relationships are transactional. Build reputation, unlock access, but don't expect loyalty.
+
+---
+
+## Your Place In All This
+
+### How You Got Here
+
+You took a smuggling job for the Enclave. Quick money, easy work. Something went wrong - caught, shipment lost, product destroyed. Now you owe them.
+
+The debt isn't just money. It's leverage. You work for them now.
+
+### What You Do
+
+You're a wizard who runs a tower that's a front for contraband production. You:
+
+- **Craft** magical goods at your tower
+- **Smuggle** them through Kingdom checkpoints
+- **Sell** to contacts across the region
+- **Service your debt** while secretly building an escape fund
+
+You're a middleman in supply chains, not the source. You buy ingredients through commerce (no gathering), craft products, and move them past people who'd rather you didn't.
+
+### Your Goal
+
+**Buy your freedom.**
+
+Success isn't saving the world or defeating evil. It's accumulating enough wealth to:
+- Pay off your debt (or escape it)
+- Disappear or start over
+- Get out of the smuggling game entirely
+
+You're playing to escape, not to matter. The world is bigger than your story, and that's fine. You just want out.
+
+---
+
+## Tone & Themes
+
+### Bureaucratic Dysfunction (Not Grimdark Tyranny)
+
+This is **Papers Please**, not **1984**. The Kingdom means well. The Enclave is professional. Nobody's cackling in a dark tower. The world is broken because of incompetence, self-interest, and systems that outlived their purpose - not because of evil.
 
 ### Gray Morality
-- The Enclave enforces prohibition while profiting from magic
-- The Kingdom outlawed something that could help people "for their own good"
-- The Undead are victims of an unprovoked war
-- Smugglers aren't heroes or villains - they're surviving in a broken system
+
+- The Enclave enforces prohibition while running the black market
+- The Kingdom outlawed magic "for everyone's safety" as a power grab
+- The Undead are victims defending themselves
+- You're not a hero - you're surviving in a broken system
+
+Nobody's right. Everybody's getting by. Including you.
 
 ### Small Player, Big World
+
 You're not the chosen one. You're a specialist in an ecosystem:
 - Other people make things you can't
 - Other people have access you don't
-- Your goal is to escape, not to fix everything
-- The world is bigger than your story
+- The war, the politics, the history - it all exists whether you engage with it or not
+- Your goal is to escape, not to fix anything
+
+The world doesn't revolve around you. That's what makes escape feel earned.
+
+### Serious-Funny
+
+Think Guy Ritchie, not Christopher Nolan. The situations are serious - debt, crime, war, survival - but the tone has room for dark humor, absurdity, and characters who are sharp rather than grim. The Undead withdrew and left a note. The royals started a war because crusades seem heroic. The Enclave keeps receipts because "this ain't the mafia."
+
+Stakes can be real without everything being dour.
 
 ---
 
@@ -153,18 +197,26 @@ You're not the chosen one. You're a specialist in an ecosystem:
 
 ### No Race-Based Stereotypes
 
-All races coexist in this world without segregation or race-specific cultures:
+All races coexist without segregation or race-specific cultures:
 - No "elf wine" or "dwarf beer"
 - No racial kingdoms or territories
-- Races might have historical artifacts or significance, but current culture is mixed
-- Regional differences are based on geography/economics, not race
+- Regional differences come from geography and economics, not race
 
-### Cultural Identity
+Potential Races:
+- Dwarves
+- Elves
+- Goblins
+- Humans
+- Orcs
 
-Identity comes from:
-- **Location** (where you're from matters more than what you are)
-- **Faction** (Kingdom loyalist vs Rebel sympathizer vs Enclave operative)
-- **Profession** (smuggler, merchant, soldier, mage)
-- **Class** (wealthy alpine merchants vs desperate border refugees)
+Undead?
+It's also a Faction so maybe Undead is a version/variant of the others.
 
-This creates a more grounded, less tropey fantasy world.
+### Identity Comes From
+
+- **Location** - Where you're from matters more than what you are
+- **Faction** - Kingdom loyalist vs Rebel vs Enclave operative
+- **Profession** - Smuggler, merchant, soldier, mage
+- **Class** - Wealthy alpine merchants vs desperate border refugees
+
+A dwarf from Snowmarch has more in common with a human from Snowmarch than with a dwarf from Ashford. Culture is place-based, not race-based.

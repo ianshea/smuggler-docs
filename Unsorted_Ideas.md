@@ -6,6 +6,43 @@ This file captures ideas, decisions, and details discussed but not yet fully doc
 
 ---
 
+## How to Use This Document
+
+This is a backlog of design decisions that need to reach "decided" status. Not everything needs answering immediately - but everything here needs an answer before building that specific system.
+
+**Priority items to resolve:**
+- Mana Economy - the resource loop that drives tension
+- Debt Numbers - the actual goal posts for the player
+
+**Decided but needs documentation elsewhere:**
+- Failure States (see below)
+
+---
+
+## Failure States (DECIDED)
+
+### Getting Caught Smuggling
+Kingdom catches you at a checkpoint → Prison → Enclave bails you out
+
+This counts as a strike against you with the Enclave.
+You can earn other strikes by failing to meet your Enclave debts or perhaps even specific requests.
+
+### Enclave Strikes (Three Strikes System)
+
+| Strike | Consequence |
+|--------|-------------|
+| **1** | They rough you up. Warning delivered. |
+| **2** | They rough you up, take your stuff, and increase their scrutiny (higher chance of finding your hidden stash during visits). |
+| **3** | Game over. You're done. |
+
+### Design Notes
+- The Enclave bailing you out reinforces their control - you literally can't escape the law without them
+- Escalating consequences create real tension without instant failure
+- Strike 2's "increased scrutiny" makes hiding your escape fund harder, not impossible
+- Three strikes is enough rope to learn from mistakes but not so much that failure is meaningless
+
+---
+
 ## Regional Beverages & Substances
 
 ### Concept
@@ -118,12 +155,7 @@ Each vendor needs:
 - Restock mechanics (daily? weekly? quest-triggered?)
 - Special services beyond selling (information, storage, introductions)
 
-**Vendors to flesh out:**
-- Tower Enclave Contact (front + private stock)
-- Snowmarch: Legal Merchant, Apothecary, Black Market Fence, Antiquarian
-- Riverton: Riverside General, Mercer's Metalworks, Three Crowns Tavern
-- Ashford: Battlefield Scavenger, Rebel Quartermaster, Deserter Armorer, Refugee Trader
-- Thornhaven: Enclave Supply Office, Archive, Magister's Registry
+*See [[Locations]] for the current vendor list per location.*
 
 ---
 
@@ -332,7 +364,6 @@ Similar structure to crafting, but:
 - Production vs field work tradeoff
 - Spell casting depletes fuel to get home
 - Running out mid-route = stranded/desperate choices
-- Enclave tracks your crystal usage (inverse checkpoint)
 
 **Questions to Resolve:**
 - How many charges per crystal?
@@ -341,25 +372,6 @@ Similar structure to crafting, but:
 - Can you carry multiple crystals?
 - Can you recharge depleted crystals or must create new?
 - Black market for crystals? (buy instead of making?)
-
-### Inverse Checkpoint (Enclave Inspection)
-
-**What They Check:**
-- Mana crystal usage (left with full, returned with 20% - where'd it go?)
-- Production output vs ingredient purchases (are you skimming?)
-- Personal wealth accumulation (hiding profits from them?)
-- Recipe compliance (making what you're supposed to?)
-
-**Concealment Mechanics:**
-- Hide personal wealth (not contraband, YOUR money)
-- Lie about spell usage vs production costs
-- False accounting (risky, requires forgery?)
-- Bribe Enclave inspector?
-
-**Consequences:**
-- Get caught skimming = debt increase, punishment
-- Perfect compliance = they trust you less (why so perfect?)
-- Moderate success = believable, builds cover over time
 
 ---
 
