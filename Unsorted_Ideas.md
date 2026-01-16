@@ -13,34 +13,12 @@ This is a backlog of design decisions that need to reach "decided" status. Not e
 **Priority items to resolve:**
 - Mana Economy - the resource loop that drives tension
 - Debt Numbers - the actual goal posts for the player
-- Inventory/Wagon Design - how cargo management actually works (see below)
+- Inventory/Wagon Design - how cargo management actually works (stub exists at [[Wagon]], details below)
 
-**Decided but needs documentation elsewhere:**
-- Failure States (see below)
-
----
-
-## Failure States (DECIDED)
-
-### Getting Caught Smuggling
-Kingdom catches you at a checkpoint → Prison → Enclave bails you out
-
-This counts as a strike against you with the Enclave.
-You can earn other strikes by failing to meet your Enclave debts or perhaps even specific requests.
-
-### Enclave Strikes (Three Strikes System)
-
-| Strike | Consequence |
-|--------|-------------|
-| **1** | They rough you up. Warning delivered. |
-| **2** | They rough you up, take your stuff, and increase their scrutiny (higher chance of finding your hidden stash during visits). |
-| **3** | Game over. You're done. |
-
-### Design Notes
-- The Enclave bailing you out reinforces their control - you literally can't escape the law without them
-- Escalating consequences create real tension without instant failure
-- Strike 2's "increased scrutiny" makes hiding your escape fund harder, not impossible
-- Three strikes is enough rope to learn from mistakes but not so much that failure is meaningless
+**Recently decided (documented elsewhere):**
+- Failure States → [[Overview#Failure & Consequences]], [[Smuggling#Success & Failure]]
+- Checkpoint mechanics → [[Guards]], [[Smuggling]]
+- Contraband levels → [[Contraband]]
 
 ---
 
@@ -225,7 +203,7 @@ Each vendor needs:
 - Black market vs legal market pricing
 
 **Contraband Properties:**
-- Contraband level (0-5)
+- Contraband level (0-6, see [[Contraband]])
 - Detection methods (Physical.Suspicious, Magic.Aura, etc.)
 - Concealment difficulty
 - Penalty if caught
@@ -407,61 +385,6 @@ Similar structure to crafting, but:
 - Can you carry multiple crystals?
 - Can you recharge depleted crystals or must create new?
 - Black market for crystals? (buy instead of making?)
-
----
-
-## Checkpoint System Details
-
-### Standard Checkpoints (Kingdom Guards)
-
-**What Guards Look For:**
-- Contraband items (magic goods, illegal substances)
-- Forged/missing permits
-- Suspicious behavior (player nervousness, inconsistent story)
-- Cargo discrepancies (manifest vs actual)
-
-**Detection Methods:**
-- Physical inspection (opening containers, searching wagon)
-- Magic scanners (detect magical aura on items)
-- Questioning (player responses affect suspicion)
-- Random checks vs targeted (based on reputation, faction heat)
-
-**Concealment Options:**
-- Hidden compartments (wagon upgrades)
-- False bottoms (crafted items)
-- Magic concealment spells (temporary, mana cost)
-- Legal cargo as cover (hide contraband in wine barrels)
-- Bribes (Riverton guards especially)
-
-**Getting Caught:**
-- Confiscation (lose contraband, lose money)
-- Fines (gold penalty, debt increase if can't pay)
-- Reputation loss (Kingdom faction, vendor access)
-- Prison? (game over vs time skip vs escape quest?)
-
-### Checkpoint Variety
-
-**Low Security (Riverton):**
-- Corrupt guards, easily bribed
-- Minimal inspection if paid off
-- Theater of enforcement, not real
-
-**Medium Security (Ashford):**
-- Understaffed, overworked
-- Random checks, less thorough
-- More concerned with Undead than smugglers
-
-**High Security (Snowmarch):**
-- Professional, by-the-book guards
-- Thorough inspections
-- Magic scanners standard
-- Hard to bribe, high risk
-
-**Maximum Security (Capital gates, Thornhaven):**
-- Multiple layers of inspection
-- Documentation required
-- Full manifest checks
-- Nearly impossible to smuggle without perfect concealment
 
 ---
 
@@ -777,10 +700,8 @@ Similar structure to crafting, but:
 ## Open Questions & Decisions Needed
 
 ### Gameplay
-- Can you fail permanently (prison/execution) or always recover?
 - Is there a time limit or is progression player-paced?
-- Can you lose the game? Or just get setback?
-- How harsh are failure states?
+- How do checkpoint encounters play out mechanically? (turn-based? real-time? dialogue tree?)
 
 ### Economy
 - Exact debt amount and escape fund target
