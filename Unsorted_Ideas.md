@@ -13,6 +13,7 @@ This is a backlog of design decisions that need to reach "decided" status. Not e
 **Priority items to resolve:**
 - Mana Economy - the resource loop that drives tension
 - Debt Numbers - the actual goal posts for the player
+- Inventory/Wagon Design - how cargo management actually works (see below)
 
 **Decided but needs documentation elsewhere:**
 - Failure States (see below)
@@ -40,6 +41,40 @@ You can earn other strikes by failing to meet your Enclave debts or perhaps even
 - Escalating consequences create real tension without instant failure
 - Strike 2's "increased scrutiny" makes hiding your escape fund harder, not impossible
 - Three strikes is enough rope to learn from mistakes but not so much that failure is meaningless
+
+---
+
+## Spellbook as Consigliere (IDEA - NOT DECIDED)
+
+The player's spellbook could have personality - acting as an advisor, companion, or sarcastic commentator. Think of it as a consigliere that:
+- Gives advice (helpful or questionable)
+- Manages your spell loadout
+- Provides flavor/narrative commentary
+- Maybe has its own agenda?
+
+This could add character to what would otherwise be a menu screen. Fits the Guy Ritchie tone - a mouthy magical book that's seen some shit.
+
+---
+
+## Inventory & Wagon Design (UNRESOLVED)
+
+Early thinking referenced Astroneer/Death Stranding style visual inventory - physical representation of cargo, tetris-like packing puzzles.
+
+Current direction leans toward "the wagon" being the primary cargo container, but specifics are muddy:
+
+**Open questions:**
+- Is inventory management a puzzle (spatial packing) or just capacity limits (weight/slots)?
+- How does the wagon interact with checkpoints? (Guards search it, hidden compartments, etc.)
+- What's the relationship between personal inventory (player) and wagon inventory?
+- Does the player physically load/unload, or is it abstracted?
+
+**Previous ideas that may or may not apply:**
+- Containers hold Packages hold Items (nesting structure)
+- Backpacks equipped to provide personal inventory
+- Pouches/Belts for quick-use items
+- Visual representation of cargo
+
+This needs actual design work before building.
 
 ---
 

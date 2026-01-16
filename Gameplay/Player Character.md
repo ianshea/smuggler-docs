@@ -1,27 +1,55 @@
-You're a wizard!
+# Player Character
 
-## Attributes
+You're a wizard. Specifically, you're a wizard in debt to the [[Wizards Enclave]], trying to earn enough to buy your freedom. See [[World Overview]] for the full story.
 
-### **M.A.G.I.C. Stats**
+---
 
-| **Stat**                                        | **Meaning**                                                                | **Gameplay Function**                                                                                                                                                                                  |
-| ----------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Moxie** (Confidence, Charisma, Nerve)         | Governs persuasion, social interactions, and resisting fear-based effects. | - Increases persuasion success.   <br>- Reduces fear-based debuffs.   <br>- Increases resistance to intimidation.                                                                                      |
-| **Arcana** (Magical Knowledge)                  | Determines understanding and manipulation of magic.                        | - Increases spell effectiveness.   <br>- Reduces mana costs.   <br>- Grants access to higher-tier magical interactions.                                                                                |
-| **Grit** (Toughness, Willpower)                 | Affects resilience, endurance, and resistance to negative effects.         | - Increases health and resistances.   <br>- Reduces negative status effect durations.   <br>- Boosts stamina/mana regeneration.                                                                        |
-| **Intuition** (Perception, Foresight, Instinct) | Governs awareness, reaction speed, and the ability to read situations.     | - Increases ability to detect lies, and hidden elements.  <br>- Improves reaction time and counterplay in encounters.  <br>- Provides insight into NPC motivations and checkpoint strength/weaknesses. |
-| **Cunning** (Deception, Trickery, Tactics)      | Helps in deception, sleight of hand, and outsmarting opponents.            | - Increases success in stealth and trickery.   <br>- Allows faster casting of illusion and deception spells.   <br>- Improves ability to find loopholes and exploit weaknesses.                        |
-## Quick Slots
-For using items like potions or scrolls, you'll add items to your quick slots. These slots are defined by the [[Belt]] the player is wearing.
+## M.A.G.I.C. Stats
 
-### Clothes
-Gives your wizard some style. Some clothing can be enchanted. A wizard can wear a [[Hat]], [[Robe]], and [[Shoes]]. They can equip a different [[Belt]] and 
+Your core attributes. These determine your effectiveness in [[Checkpoints|checkpoint contests]], spellcasting, and interactions.
 
-### Inventory System
-A player carries Backpacks that are containers that hold Items. A player c
+| Stat | Meaning | Gameplay Function |
+|------|---------|-------------------|
+| **Moxie** | Confidence, Charisma, Nerve | Persuasion success, resist fear/intimidation, bribe negotiations |
+| **Arcana** | Magical Knowledge | Spell effectiveness, mana costs, access to higher-tier magic |
+| **Grit** | Toughness, Willpower | Health, resistances, reduce negative status effect duration, mana regeneration |
+| **Intuition** | Perception, Foresight, Instinct | Detect lies/hidden things, read NPC motivations, preview checkpoint difficulty |
+| **Cunning** | Deception, Trickery, Tactics | Stealth success, illusion spell speed, exploit weaknesses, hide contraband |
 
-See the [[Inventory]] section for more details.
+See [[Guards]] for how these stats contest against NPCs.
 
-### Equipment
+---
 
-- [[Backpacks]] are containers that hold inventory slots.
+## Equipment
+
+### Equipment Slots
+
+| Slot | What Goes There |
+|------|-----------------|
+| **Hat** | Headwear, some can be enchanted |
+| **Robe** | Main clothing, style + enchantments |
+| **Belt** | Defines your [[#Quick Slots]] for consumables |
+| **Staff** | Enhances spell effectiveness and capacity |
+| **Accessory 1** | Rings, amulets, charms, etc. |
+| **Accessory 2** | Rings, amulets, charms, etc. |
+
+> **Note:** Wagon equipment/upgrades are managed separately. See [[Wagon]].
+
+### Quick Slots
+
+Your belt determines how many quick slots you have for consumables (potions, scrolls, etc.). Items in quick slots can be used rapidly during encounters.
+
+---
+
+## Progression
+
+> **TODO:** How do stats improve? Flat values? Upgrades? Experience? This needs design work.
+
+---
+
+## Design Notes
+
+- M.A.G.I.C. stats are universal - guards and NPCs use the same system
+- Equipment modifies stats and provides special abilities
+- No stamina system - movement speed can be modified by spells (costs mana)
+- Personal inventory is separate from wagon cargo
