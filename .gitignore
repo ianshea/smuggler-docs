@@ -12,4 +12,7 @@ cat > .gitignore << EOL
 # System files
 .trash/
 .DS_Store
+
+# Environment files
+.env
 EOL
