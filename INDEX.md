@@ -100,6 +100,7 @@ These have documents but need more design or are stubs.
 | [[Gameplay/Magic/Enchantments]] | Stub | Enchantment system |
 | [[Gameplay/Crafting/*]] | Stubs | Stations, formulas, recipes |
 | [[Gameplay/Contacts/Contacts]] | 🔶 In Progress | Vendor system, hidden stock, faction unlocks |
+| [[Gameplay/Dialogue System]] | 🔶 In Progress | NPC conversations, greetings, regional voice |
 | [[Gameplay/Calendar]] | Stub | Time system, events |
 | [[Gameplay/Wealth/Gold]] | Empty | Could merge into Wealth |
 | [[Gameplay/Wealth/Gems]] | Empty | Could merge into Wealth |
@@ -121,7 +122,6 @@ smuggler-docs/
 ├── INDEX.md                    ← Table of contents, key numbers
 ├── CLAUDE.md                   ← Project context for AI assistance
 ├── Unsorted_Ideas.md           ← Backlog and pending decisions
-├── Conversation Engine.md      ← Dialogue system notes
 │
 ├── Dev Logs/                   ← Development journal
 │   └── YYYY-MM-DD.md
@@ -137,6 +137,7 @@ smuggler-docs/
 │   ├── Checks & Contests.md
 │   ├── Debt & Economy.md
 │   ├── Calendar.md
+│   ├── Dialogue System.md      ← NPC conversations, regional voice
 │   │
 │   ├── Magic/
 │   │   ├── How Magic Works.md
