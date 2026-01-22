@@ -193,7 +193,54 @@ Stakes can be real without everything being dour.
 
 ### Theme / Time-Period
 
-Prohibition Era Meets Fantasy
+**Medieval Economy, Prohibition-Era Crime**
+
+The world operates at a medieval technological level - physical currency, horse-drawn transport, correspondence-based communication. But the *criminal organizations* have developed structures that feel anachronistically modern: documented transactions, professional hierarchies, systematic corruption, and leverage-based relationships.
+
+This creates a specific tension: the Enclave runs their operation like a 1920s crime syndicate in a world where "running" means sending a rider with a sealed letter. They're unnervingly organized for their setting.
+
+#### What Prohibition Means Here
+
+The prohibition isn't about a substance being dangerous - it's about power consolidation dressed up as public safety. This shapes everything:
+
+- **The illegality creates the value.** Mana, reagents, potions - none of these are inherently rare. They're valuable because they're banned. Remove prohibition, and your entire economy collapses. The Enclave knows this.
+  
+- **The crime is professional.** This isn't desperate people breaking laws to survive. It's an organization that treats illegal trade as a business with org charts, territories, and documented debts. "This ain't the mafia" - except it functionally is, just with better record-keeping.
+
+- **Enforcement is selective.** The Kingdom can't actually stop magic use - they can only make examples and control chokepoints. This creates a world where *getting caught* matters more than *breaking the law*.
+
+- **Everyone's complicit.** Guards take bribes. Officials look away. The Enclave has relationships everywhere. The system runs on controlled corruption.
+
+#### Technology & Communication
+
+**Mana crystals** power the few machines that exist - mostly engines and vehicles maintained by the Enclave and Kingdom (via Enclave expertise). These are rare, valuable, and tightly controlled.
+
+**Communication** happens in person or via physical correspondence. No airwaves, no instant messaging. Documents matter:
+- Permits (official Kingdom authorization)
+- Notes (informal, deniable)
+- Requests (Enclave assignments)
+- Sealed Documents (tamper-evident, high-stakes)
+- Forged versions of all the above
+
+**Entertainment** once included magical performances - illusions, conjured spectacles, enchanted theaters. Much of this was lost to prohibition. What remains is underground, expensive, and risky.
+
+#### Currency & Wealth
+
+The Kingdom mints official coinage (copper, silver, gold) that serves as the universal medium of exchange. But wealth takes many forms, each with trade-offs:
+
+| Form | Value Density | Liquidity | Checkpoint Risk |
+|------|---------------|-----------|-----------------|
+| Copper/Silver | Low | Universal | Unremarkable |
+| Gold coins | Medium | Universal | "Successful merchant" or "where'd you get this?" |
+| Gems | High | Needs right buyer | "These look like Enclave payment..." |
+| Trade goods | Variable | Market-specific | Plausible cover |
+| Artifacts | Very high | Specialized | "Family heirloom, officer" |
+
+**The Enclave runs credit internally** - they track what you owe, what you've paid, what you're worth. This is convenient but dangerous: they know exactly what you have.
+
+**Your escape fund must be invisible.** Wealth the Enclave can see is wealth they can seize. The real game is converting visible earnings into hidden assets - gems sewn into wagon linings, artifacts "lost" in transit, gold buried somewhere only you know.
+
+Physical wealth storage isn't primitive - it's operational security.
 
 ---
 
