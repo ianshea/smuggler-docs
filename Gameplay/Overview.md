@@ -98,9 +98,11 @@ You're not trying to overthrow anyone or save the world. You're trying to get ou
 | System | Doc |
 |--------|-----|
 | Your stats & equipment | [[Player Character]] |
-| Your vehicle & cargo | [[Wagon]] |
+| Items & cargo | [[Inventory]] |
+| Your vehicle & compartments | [[Wagon]] |
 | Checkpoint encounters | [[Checkpoints]], [[Guards]] |
 | What you're smuggling | [[Contraband]], [[Legal Goods]] |
-| Magic & mana | [[How Magic Works]], [[Mana Crystals]] |
+| Magic & mana | [[How Magic Works]], [[Mana Economy]] |
+| Money & freedom | [[Debt & Economy]], [[Wealth]] |
 | Selling goods | [[Contacts]] |
 | Where you go | [[Locations]] |

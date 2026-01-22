@@ -29,7 +29,7 @@ See [[Guards]] for how these stats contest against NPCs.
 | **Hat** | Headwear, some can be enchanted |
 | **Robe** | Main clothing, style + enchantments |
 | **Belt** | Defines your [[#Quick Slots]] for consumables |
-| **Staff** | Enhances spell effectiveness and capacity |
+| **Staff** | Your casting implement; **houses your mana crystal** (see below) |
 | **Accessory 1** | Rings, amulets, charms, etc. |
 | **Accessory 2** | Rings, amulets, charms, etc. |
 
@@ -38,6 +38,22 @@ See [[Guards]] for how these stats contest against NPCs.
 ### Quick Slots
 
 Your belt determines how many quick slots you have for consumables (potions, scrolls, etc.). Items in quick slots can be used rapidly during encounters.
+
+### Staff & Mana Crystal
+
+Your staff is your primary spellcasting tool and **contains your personal mana crystal**.
+
+| Staff Property | Effect |
+|----------------|--------|
+| **Crystal Capacity** | How much mana you can hold (starting: 100) |
+| **Spell Effectiveness** | Modifiers to specific spell types |
+| **Special Abilities** | Unique effects on higher-tier staves |
+
+**Upgrading your staff is the primary way to increase mana capacity.** A better staff means a larger crystal, which means more margin for error on runs.
+
+You cast spells using your Staff + Spellbook together. The staff provides the power; the spellbook provides the knowledge.
+
+See [[Mana Crystals]] and [[Mana Economy]] for details.
 
 ---
 

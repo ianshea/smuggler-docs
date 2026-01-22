@@ -11,14 +11,16 @@ This file captures ideas, decisions, and details discussed but not yet fully doc
 This is a backlog of design decisions that need to reach "decided" status. Not everything needs answering immediately - but everything here needs an answer before building that specific system.
 
 **Priority items to resolve:**
-- Mana Economy - the resource loop that drives tension
-- Debt Numbers - the actual goal posts for the player
-- Inventory/Wagon Design - how cargo management actually works (stub exists at [[Wagon]], details below)
+- (None currently — major systems documented)
 
 **Recently decided (documented elsewhere):**
 - Failure States → [[Overview#Failure & Consequences]], [[Smuggling#Success & Failure]]
 - Checkpoint mechanics → [[Guards]], [[Smuggling]]
 - Contraband levels → [[Contraband]]
+- Inventory/Wagon Design → [[Wagon#Compartment System (DECIDED)]]
+- Mana Economy → [[Mana Economy]] (100 mana starting, staff houses crystal, spell costs defined)
+- Wealth System → [[Wealth]] (physical items, return-trip risk)
+- Debt & Economy → [[Debt & Economy]] (10k debt, 5k escape, 25% cut)
 
 ---
 
@@ -34,25 +36,29 @@ This could add character to what would otherwise be a menu screen. Fits the Guy 
 
 ---
 
-## Inventory & Wagon Design (UNRESOLVED)
+## Inventory & Wagon Design (DECIDED)
 
-Early thinking referenced Astroneer/Death Stranding style visual inventory - physical representation of cargo, tetris-like packing puzzles.
+**Decision:** Compartment-based hybrid model. See [[Wagon#Compartment System (DECIDED)]] for full details.
 
-Current direction leans toward "the wagon" being the primary cargo container, but specifics are muddy:
+**Summary:**
+- Wagon has distinct compartments (physical locations)
+- Each compartment has capacity (slots/weight), not spatial arrangement
+- Player chooses *which compartment* holds what, not *how to arrange* within
+- Compartments have properties: capacity, visibility, obscurement bonus, storage type, search priority
+- Guards search compartments; obscurement spells target compartments
+- Strategic choice ("what goes where?") not mechanical puzzle ("how do I tetris?")
 
-**Open questions:**
-- Is inventory management a puzzle (spatial packing) or just capacity limits (weight/slots)?
-- How does the wagon interact with checkpoints? (Guards search it, hidden compartments, etc.)
-- What's the relationship between personal inventory (player) and wagon inventory?
-- Does the player physically load/unload, or is it abstracted?
+**Why this approach:**
+- Fits checkpoint encounter design (guards search compartments)
+- Compartment specialization creates meaningful choices
+- Scales cleanly with wagon upgrades
+- Keeps player focus on smuggling strategy, not inventory management
 
-**Previous ideas that may or may not apply:**
-- Containers hold Packages hold Items (nesting structure)
-- Backpacks equipped to provide personal inventory
-- Pouches/Belts for quick-use items
-- Visual representation of cargo
-
-This needs actual design work before building.
+**Resolved questions:**
+- Inventory management is capacity-based, not spatial
+- Wagon interacts with checkpoints via compartment searches
+- Personal inventory is separate (tools, consumables, documents) from wagon cargo (bulk goods, contraband)
+- Loading is abstracted to compartment assignment, not physical placement
 
 ---
 
